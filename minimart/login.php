@@ -78,7 +78,7 @@
 		}
 	}else {
 		die("Query failed");
-	}
+	
 
 
 
